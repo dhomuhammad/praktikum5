@@ -14,7 +14,6 @@ praktikum5
     INSERT INTO `praktikum5`.`mahasiswa` (`nim`, `nama`, `jenis_kelamin`, `tgl_lahir`, `jalan`, `kota`,`kodepos`, `no_hp`, `kd_ds`)VALUES ('1945678', 'Jura Marsina', 'Perempuan', '2000-05-10', 'NULL', 'Cikarang', 'NULL', 'NULL','NULL');
     INSERT INTO `praktikum5`.`mahasiswa` (`nim`, `nama`, `jenis_kelamin`, `tgl_lahir`, `jalan`, `kota`,`kodepos`, `no_hp`, `kd_ds`)VALUES ('1956789', 'Dadi Martani', 'Laki-laki', '2001-08-29', 'NULL', 'Bekasi', 'NULL', 'NULL','DS005');
     INSERT INTO `praktikum5`.`mahasiswa` (`nim`, `nama`, `jenis_kelamin`, `tgl_lahir`, `jalan`, `kota`,`kodepos`, `no_hp`, `kd_ds`)VALUES ('1967890', 'bayu Laksono', 'Laki-laki', '1999-07-22', 'NULL', 'Cikarang', 'NULL', 'NULL','DS004');
-# OUTPUT:
 ![gambar 1](https://github.com/dhomuhammad/praktikum5/blob/main/outputpraktikum5/ss1.png)
 
 # 2. Menginput data dosen
@@ -23,7 +22,6 @@ praktikum5
             INSERT INTO `praktikum5`.`dosen` (`kd_ds`, `nama`) VALUES ('DS003', 'Ayu Rahmadina'); 
             INSERT INTO `praktikum5`.`dosen` (`kd_ds`, `nama`) VALUES ('DS004', 'Ratna Kumala'); 
             INSERT INTO `praktikum5`.`dosen` (`kd_ds`, `nama`) VALUES ('DS005', 'Vika Prasetyo');
-# OUTPUT:
 ![gambar 2](https://github.com/dhomuhammad/praktikum5/blob/main/outputpraktikum5/ss2.png)
 
 # 3. Menginput data mata kuliah
